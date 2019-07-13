@@ -1,11 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Error connecting to the service protocol: HttpException: Connection closed before full header was received" />
       <item value="Waiting for another flutter command to release the startup lock..." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="1" />
+        <entry key="CHINESE" value="1" />
+        <entry key="ENGLISH" value="2" />
       </map>
     </option>
   </component>
