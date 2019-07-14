@@ -1,4 +1,4 @@
-<keymap version="1" name="Default 复制" parent="$default">
+<keymap version="1" name="MyKeymap" parent="$default">
   <action id="ActivateLogcatToolWindow">
     <keyboard-shortcut first-keystroke="alt 6" />
   </action>
