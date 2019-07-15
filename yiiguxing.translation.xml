@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="dynamic" />
       <item value="internal" />
       <item value="first Int Value" />
       <item value="factory" />
@@ -15,8 +16,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="13" />
-        <entry key="ENGLISH" value="14" />
+        <entry key="CHINESE" value="15" />
+        <entry key="ENGLISH" value="16" />
       </map>
     </option>
   </component>
