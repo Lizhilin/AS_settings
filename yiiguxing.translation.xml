@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Chip" />
+      <item value="avatar" />
       <item value="Fractionally Sized Box" />
       <item value="Physical Model" />
       <item value="clip Behavior" />
@@ -10,14 +12,14 @@
       <item value="Edge Insets" />
       <item value="decoration" />
       <item value="Divider" />
-      <item value="Chip" />
       <item value="Error connecting to the service protocol: HttpException: Connection closed before full header was received" />
       <item value="Waiting for another flutter command to release the startup lock..." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="13" />
-        <entry key="ENGLISH" value="14" />
+        <entry key="CHINESE" value="14" />
+        <entry key="ENGLISH" value="15" />
+        <entry key="VIETNAMESE" value="1" />
       </map>
     </option>
   </component>
