@@ -6,6 +6,10 @@
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
+  <action id="EditorLineEnd">
+    <keyboard-shortcut first-keystroke="end" />
+    <keyboard-shortcut first-keystroke="ctrl e" />
+  </action>
   <action id="EditorSelectWord" />
   <action id="FileChooser.NewFile">
     <keyboard-shortcut first-keystroke="ctrl n" />
@@ -14,5 +18,9 @@
   <action id="GotoClass" />
   <action id="NewElementInMenuGroup">
     <keyboard-shortcut first-keystroke="ctrl n" />
+  </action>
+  <action id="RecentFiles" />
+  <action id="Vcs.ShowMessageHistory">
+    <keyboard-shortcut first-keystroke="ctrl m" />
   </action>
 </keymap>
