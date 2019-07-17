@@ -1,9 +1,9 @@
 <application>
   <component name="com.intellij.ide.ui.customization.CustomActionsSchema">
-    <group value="Images.SetBackgroundImage" is_action="true" action_type="1" position="19">
+    <group value="Images.SetBackgroundImage" is_action="true" action_type="1" position="18">
       <path value="root" />
-      <path value="主菜单" />
-      <path value="工具(T)" />
+      <path value="Main menu" />
+      <path value="Tools" />
       <option name="myInitialPosition" value="-1" />
     </group>
   </component>
