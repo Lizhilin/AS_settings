@@ -1,20 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="circular" />
-      <item value="Fractionally" />
-      <item value="Fractionall" />
-      <item value="Fractionally Sized Box" />
-      <item value="Scaffold" />
-      <item value="Gesture Detector" />
-      <item value="Material" />
-      <item value="Material App" />
+      <item value="This computer does not support Intel Virtualization Technology (VT-x) or it is being exclusively used by Hyper-V. HAXM cannot be installed. Please ensure Hyper-V is disabled in Windows Features, or refer to the Intel HAXM documentation for more information." />
     </histories>
-    <option name="languageScores">
-      <map>
-        <entry key="CHINESE" value="7" />
-        <entry key="ENGLISH" value="8" />
-      </map>
-    </option>
   </component>
 </application>

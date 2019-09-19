@@ -20,7 +20,14 @@
     <keyboard-shortcut first-keystroke="ctrl n" />
   </action>
   <action id="RecentFiles" />
+  <action id="UpdateRunningApplication" />
   <action id="Vcs.ShowMessageHistory">
     <keyboard-shortcut first-keystroke="ctrl m" />
+  </action>
+  <action id="android.deploy.ApplyChanges">
+    <keyboard-shortcut first-keystroke="ctrl f10" />
+  </action>
+  <action id="android.deploy.CodeSwap">
+    <keyboard-shortcut first-keystroke="ctrl alt f10" />
   </action>
 </keymap>
