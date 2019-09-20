@@ -3,6 +3,6 @@
     <option name="FONT_FAMILY" value="Microsoft YaHei Mono" />
   </component>
   <component name="EditorSettings">
-    <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR" />
+    <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR:CONSOLE" />
   </component>
 </application>
